@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Pixels</string>
+    <string name="your_phone_number">Your phone number</string>
+    <string name="passcode_title">Your Passcode:</string>
+    <string name="passcode_headsup">please remember, you will be asked for this code in the next step.</string>
+    <string name="next">NEXT</string>
+    <string name="forgot_passcode">Forgot Passcode?</string>
+    <string name="scan_qr_message">Scan a QR Code to view results here…</string>
+    <string name="logout">Logout</string>
+    <string name="cancelled">Cancelled…</string>
+    <string name="passcode_verification_failure">Could not verify the passcode!</string>
+    <string name="incorrect_passcode">Incorrect code!</string>
+    <string name="invalid_phone_number">Not a valid phone number!</string>
+</resources>
